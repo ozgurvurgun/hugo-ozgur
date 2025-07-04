@@ -1,8 +1,8 @@
 baseURL = 'https://ozgurvurgun.github.io/'
 languageCode = 'en-us'
-title = 'emre.xyz | @delirehberi'
+title = '@ozgurvurgun'
 theme="archie"
-copyright= "delirehberi"
+copyright= "ozgurvurgun"
 # Code Highlight
 pygmentsstyle = "monokai"
 pygmentscodefences = true
@@ -16,29 +16,15 @@ icon = "github"
 url = "https://github.com/ozgurvurgun"
 
 [[params.social]]
-name = "Bluesky"
-icon = "at-sign"
-url = "https://bsky.app/profile/emre.xyz"
-
-[[params.social]]
-name = "Youtube"
-icon = "youtube"
-url = "https://youtube.com/EmreYILMAZ"
-
-[[params.social]]
 name = "Linkedin"
 icon = "linkedin"
-url = "https://linkedin.com/in/delirehberi"
-
-[[params.social]]
-name = "Nostr"
-icon = "at-sign"
-url = "https://satellite.earth/@delirehberi@emre.xyz"
+url = "https://linkedin.com/in/ozgurvurgun1"
 
 [[params.social]]
 name = "VCF"
 icon = "phone"
 url = "http://emre.xyz/me.vcf"
+
 [[params.social]]
 name = "Resume"
 icon = "file-text"
@@ -51,18 +37,8 @@ weight = 1
 
 [[menu.main]]
 name = "gist"
-url = "https://gist.github.com/delirehberi"
+url = "https://gist.github.com/ozgurvurgun"
 weight = 2
-
-[[menu.main]]
-name = "nostr"
-url = "https://nostr.emre.xyz"
-weight = 3
-
-[[menu.main]]
-name = "til"
-url = "/til"
-weight = 3 
 
 [[menu.main]]
 name = "me"
@@ -73,11 +49,6 @@ weight = 4
 name = "subscribe"
 url = "/subscribe"
 weight = 5
-
-[[menu.main]]
-name = "resume"
-url = "/resume.pdf"
-weight = 6
 
 enableEmoji = true
 enableInlineShortcodes = true
