@@ -45,11 +45,6 @@ name = "me"
 url = "/about"
 weight = 4
 
-[[menu.main]]
-name = "subscribe"
-url = "/subscribe"
-weight = 5
-
 enableEmoji = true
 enableInlineShortcodes = true
 
