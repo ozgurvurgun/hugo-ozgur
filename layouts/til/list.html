@@ -1,0 +1,23 @@
+{{ define "main" }}
+{{ if isset .Data "Term" }}
+<h1>Entries tagged - "{{ .Data.Term }}"</h1>
+{{ else }}
+<h1 class="page-title">Today I Learned</h1>
+<p>
+    I started to share "what i learned today". Mostly there will be snippets and short contents
+</p>
+{{ end }}
+
+<ul class="posts">
+	{{- range .Data.Pages -}}
+		{{- if (not (in (.Site.Params.excludedTypes | default (slice "page")) .Type)) -}}
+		<li class="post">
+			<a href="{{ .RelPermalink }}">TIL {{.Title}}</a> <span class="meta">{{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</span>
+            <article style="background-color: rgba(0,0,0,0.1); padding: 15px;text-indent:0;">
+                {{ .Content }}
+            </article>
+		</li>
+		{{- end -}}
+	{{- end -}}
+</ul>
+{{ end }}
