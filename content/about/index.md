@@ -22,6 +22,6 @@ Sometimes my experiments turn into CLI tools, small bots, or just random notes h
 This blog is where I put all these scribbles, ideas, and the occasional *“oh, so that’s how it works”* moment.
 
 **Links:**  
-[GitHub](https://github.com/ozgurvurgun) [Twitter](https://twitter.com/delirehberi)
+[GitHub](https://github.com/ozgurvurgun) [Twitter](https://twitter.com/ozgurvrgn)
 
 
