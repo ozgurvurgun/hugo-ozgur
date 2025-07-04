@@ -36,8 +36,8 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "gist"
-url = "https://gist.github.com/ozgurvurgun"
+name = "projects"
+url = "/projects"
 weight = 2
 
 [[menu.main]]
