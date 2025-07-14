@@ -36,14 +36,19 @@ url = "/"
 weight = 1
 
 [[menu.main]]
+name = "shorts"
+url = "/shorts"
+weight = 2
+
+[[menu.main]]
 name = "projects"
 url = "/projects"
-weight = 2
+weight = 3
 
 [[menu.main]]
 name = "me"
 url = "/about"
-weight = 3
+weight = 4
 
 enableEmoji = true
 enableInlineShortcodes = true
