@@ -1,6 +1,5 @@
 ---
 title: Hello, World. Built the World First.
-description:
 date: 2025-07-14
 draft: false
 tags:  #tr #general

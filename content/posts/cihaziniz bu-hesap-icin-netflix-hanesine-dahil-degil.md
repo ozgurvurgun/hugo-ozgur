@@ -1,6 +1,6 @@
 ---
 title: Cihazınız bu hesap için Netflix Hanesine dahil değil.
-description:
+
 date: 2025-07-04 
 draft: false
 tags:  #tr #hack
@@ -11,7 +11,6 @@ Bugün Netflix hesabına hane dışından erişmeye çalışırken ekranıma şu
 > *"Cihazınız bu hesap için Netflix Hanesine dahil değil."*
 
 "Tamam" dedim, "ben seni dahil ederim…" 😈
-<!--more-->
 
 ## Engeli nasıl gördüm?
 
