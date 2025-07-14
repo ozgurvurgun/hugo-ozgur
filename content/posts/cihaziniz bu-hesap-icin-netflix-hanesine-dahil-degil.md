@@ -1,8 +1,9 @@
 ---
 title: Cihazınız bu hesap için Netflix Hanesine dahil değil.
+description:
 date: 2025-07-04 
 draft: false
-tags:  en #hack
+tags:  #tr #hack
 ---
 
 Bugün Netflix hesabına hane dışından erişmeye çalışırken ekranıma şu meşhur uyarı düştü:
@@ -12,7 +13,7 @@ Bugün Netflix hesabına hane dışından erişmeye çalışırken ekranıma şu
 "Tamam" dedim, "ben seni dahil ederim…" 😈
 <!--more-->
 
-## 🚫 Engeli nasıl gördüm?
+## Engeli nasıl gördüm?
 
 Tam ekran bir engel:
 
@@ -20,13 +21,13 @@ Tam ekran bir engel:
 * Üstte `Hesap Oluştur` butonu, `Geçici Olarak İzle` veya `Oturumu Kapat` seçenekleri var.
 
 
-### 🧙‍♂️ Büyü neydi?
+## 🧙‍♂️ Büyü neydi?
 
 Önce engeli ortadan kaldırmak için klasik `display: none` manevrasını yaptım.
 Ardından fark ettim ki video DOM’da duruyor ama kendini oynatmıyor. E tabii `play()` çağrısını da ben yaparım dedim.
 
 
-### 📜 Kullandığım basit JS sihri:
+## Kullandığım basit JS sihri:
 
 ```js
 // Videoları muted aç, autoplay engelini aş
@@ -48,7 +49,7 @@ document.querySelectorAll('video').forEach(video => {
 ```
 
 
-### ⚙️ Ne oldu?
+## Ne oldu?
 
 * Netflix sayfada `video` elementini yüklüyor.
 * Ama otomatik oynatmayı durduruyor.

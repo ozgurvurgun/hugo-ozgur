@@ -9,11 +9,11 @@ tags:  me
 
 Hi,
 
-I'm Özgür Vurgun — a software developer.  
+I'm Özgür Vurgun a software developer.  
 I mainly focus on backend development, system tinkering, automation, and building tools that make my own work easier.
 
 Besides my daily work, I enjoy trying out new languages, exploring frameworks, and understanding how things work *from the root*.  
-When I write code, I care as much about *why* something is done a certain way as *how* it’s done. Sometimes, I build the same thing three times in different ways — just to see how it really works under the hood.
+When I write code, I care as much about *why* something is done a certain way as *how* it’s done. Sometimes, I build the same thing three times in different ways just to see how it really works under the hood.
 
 I prefer *clean systems*, *noise-free tools*, and setups that don't get in the way.  
 I usually stay away from frontend work and stick to backend and automation.  
