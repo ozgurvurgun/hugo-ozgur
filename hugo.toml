@@ -46,9 +46,14 @@ url = "/projects"
 weight = 3
 
 [[menu.main]]
+name = "angular"
+url = "/angular"
+weight = 4
+
+[[menu.main]]
 name = "me"
 url = "/about"
-weight = 4
+weight = 5
 
 enableEmoji = true
 enableInlineShortcodes = true
