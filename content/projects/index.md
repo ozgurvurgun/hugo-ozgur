@@ -1,5 +1,5 @@
 ---
-title: About
+title: Projects
 description:
 date: 2025-07-04
 draft: false

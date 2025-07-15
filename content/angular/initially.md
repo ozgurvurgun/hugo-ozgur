@@ -20,7 +20,7 @@ weight: 2
     ng new my-app
     ```
 
-4) Bir kaç soru soracak sistem tasarımmınna göre bunlara cevap ver.
+4) Bir kaç soru soracak sistem tasarımına göre bunlara cevap ver.
 
 
 5)  ```bash

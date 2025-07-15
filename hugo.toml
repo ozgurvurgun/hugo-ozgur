@@ -9,7 +9,8 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 params.mode="auto"
- 
+params.mainSections = ["posts"]
+
 [[params.social]]
 name = "GitHub"
 icon = "github"
