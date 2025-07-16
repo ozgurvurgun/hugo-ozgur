@@ -91,7 +91,7 @@ Aşağıda, yukarıdaki reaktif yaklaşımın birebir React kodunu veriyorum:
 import { useState } from "react";
 
 function App() {
-  const [name, setName] = useState("Merhaba dünya!");
+  const [name, setName] = useState("hello world");
 
   return (
     <div>
@@ -111,7 +111,5 @@ Nasıl ama? Mis gibi okunaklı ve anlaması çok kolay değil mi?
 
 ## Son
 
-Günün sonunda reaktif programlama paradigması oldukça basittir:
-Bazı kaynaklarda veri değişimleri olur, biz de bu değişimlere tepki veririz. Bu kadar.
-Ama sistemi büyütüp karmaşıklaştırdıkça bu tepki sistemini sağlıklı ve sürdürülebilir şekilde yönetmek istersen, işte orada RxJS gibi kütüphaneler, Vue, React gibi framework’ler devreye girer.
+Günün sonunda reaktif programlama paradigması oldukça basittir: Bazı kaynaklarda veri değişimleri olur, biz de bu değişimlere tepki veririz. Bu kadar. Ama sistemi büyütüp karmaşıklaştırdıkça bu tepki sistemini sağlıklı ve sürdürülebilir şekilde yönetmek istersen, işte orada RxJS gibi kütüphaneler, Vue, React gibi framework’ler devreye girer.
 
