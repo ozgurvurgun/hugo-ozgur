@@ -52,9 +52,14 @@ url = "/angular"
 weight = 4
 
 [[menu.main]]
+name = "links"
+url = "/links"
+weight = 5
+
+[[menu.main]]
 name = "me"
 url = "/about"
-weight = 5
+weight = 6
 
 enableEmoji = true
 enableInlineShortcodes = true
