@@ -55,3 +55,5 @@ tags: [links]
 ---
 - 📚 Homotopy Type Theory: Univalent Foundations:  
   https://homotopytypetheory.org/book/
+---
+- ▶️ Hafif Programming: https://www.youtube.com/@hafifprogramming
