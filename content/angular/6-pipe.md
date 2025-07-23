@@ -1,6 +1,6 @@
 ---
 title: "Pipe"
-date: 2025-07-17
+date: 2025-07-23
 draft: false
 weight: 6
 ---

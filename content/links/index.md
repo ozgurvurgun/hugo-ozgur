@@ -57,3 +57,6 @@ tags: [links]
   https://homotopytypetheory.org/book/  
 ---
 - ▶️ **Hafif Programming**: https://www.youtube.com/@hafifprogramming
+---
+
+- ▶️ **Green Code**: https://www.youtube.com/@Green-Code
