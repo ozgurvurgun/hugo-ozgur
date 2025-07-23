@@ -52,14 +52,19 @@ url = "/angular"
 weight = 4
 
 [[menu.main]]
+name = "nestJS"
+url = "/nestJS"
+weight = 5
+
+[[menu.main]]
 name = "links"
 url = "/links"
-weight = 5
+weight = 6
 
 [[menu.main]]
 name = "me"
 url = "/about"
-weight = 6
+weight = 7
 
 enableEmoji = true
 enableInlineShortcodes = true
