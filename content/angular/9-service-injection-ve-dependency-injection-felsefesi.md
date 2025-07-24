@@ -142,7 +142,7 @@ Ama farklı module’lerde farklı instance’lar istiyorsan farklı `providers`
 
 ## Anti-Pattern: Service Her Şeyi Yapsın
 
--Bir Service her şeyi yapıyorsa:
+Bir Service her şeyi yapıyorsa:
 - Hem API çağrısı
 - Hem form validasyonu
 - Hem state tutma
