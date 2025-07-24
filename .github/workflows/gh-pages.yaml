@@ -8,6 +8,7 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -15,13 +16,24 @@ jobs:
           submodules: true
           fetch-depth: 0
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: '0.119.0'
           extended: true
 
-      - name: Build
+      - name: Install hugo-private-post
+        run: npm install hugo-private-post
+
+      - name: Encrypt posts
+        run: npx hugo-private-post
+
+      - name: Build site
         run: hugo --minify
 
       - name: Deploy
