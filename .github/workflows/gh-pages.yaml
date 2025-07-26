@@ -27,12 +27,6 @@ jobs:
           hugo-version: '0.119.0'
           extended: true
 
-      - name: Install hugo-private-post
-        run: npm install hugo-private-post
-
-      - name: Encrypt posts
-        run: npx hugo-private-post
-
       - name: Build site
         run: hugo --minify
 
