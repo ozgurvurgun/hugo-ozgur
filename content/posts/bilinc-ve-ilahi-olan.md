@@ -1,7 +1,7 @@
 ---
 title: Bilinç ve İlahi Olan
 date: 2025-07-14
-draft: false
+draft: true
 tags:  #tr #philosophy
 ---
 
