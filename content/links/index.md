@@ -26,6 +26,8 @@ tags: [links]
 ---
 - **Logic in Computer Science**: https://en.wikipedia.org/wiki/Logic_in_computer_science  
 ---
+- **Halting Problem**: https://en.wikipedia.org/wiki/Halting_problem
+---
 - 📚 **Types and Programming Languages – Benjamin C. Pierce**:  
   https://theswissbay.ch/pdf/Gentoomen%20Library/Maths/Comp%20Sci%20Math/Benjamin_C._Pierce-Types_and_Programming_Languages-The_MIT_Press%282002%29.pdf  
 ---
