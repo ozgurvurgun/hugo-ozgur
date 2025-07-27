@@ -7,7 +7,7 @@ weight: 14
 
 ## Angular Signals - Yeni Nesil Reaktivite
 
-Giriş: Neden Böyle Bir Yapıya İhtiyaç Duyuldu?
+Neden Böyle Bir Yapıya İhtiyaç Duyuldu?
 
 Angular uzun yıllardır reaktif programlama ihtiyaçlarını karşılamak için RxJS kütüphanesini kullanıyordu. `Observable` `Subject` `pipe` `map` `switchMap` `subscribe` `unsubscribe` gibi yapılar bu sistemin parçalarıydı.
 

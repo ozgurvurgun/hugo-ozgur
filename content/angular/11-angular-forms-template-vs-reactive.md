@@ -29,7 +29,7 @@ Bir input'a sadece veri bağlamazsın.
 
 İşte forumu baba yapan bu takip yapısıdır.
 
-## 🛠 Template-Driven Forms (HTML Odaklı Yaklaşım)
+## Template-Driven Forms (HTML Odaklı Yaklaşım)
 
 > HTML içinde yazarsın, Angular arkada otomatik bir Form nesnesi oluşturur.
 
