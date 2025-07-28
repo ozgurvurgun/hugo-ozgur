@@ -118,3 +118,8 @@ counter++;
 Bu basit satır bile aslında üç adımdır: oku -> artır -> yaz. İki thread aynı anda iş yaparsa biri diğerini ezebilir. Fonksiyonel programlama ise değişmeyen (immutable) verilerle çalışır. Hiçbir şeyi değiştirmediğin için hiçbir şey çakışmaz. Bu da paralelliği kolaylaştırır.
 
 -------------------------------------------
+
+
+```txt
+Bu yazıyı tek bir sayfada kavram kutusu ile beraber yazarsam feci uzun olacak ve çorbaya dönecek gibi. En iyisi yeni bir section açıp orada parça parça paylaşmak olacak
+```
