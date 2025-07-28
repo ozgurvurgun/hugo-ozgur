@@ -1,5 +1,5 @@
 ---
-title: Category Theory for Programmers – Bartosz Milewski
+title: Category Theory for Programmers - Bartosz Milewski
 date: 2025-07-28
 draft: false
 tags:  #tr #science #math #software
