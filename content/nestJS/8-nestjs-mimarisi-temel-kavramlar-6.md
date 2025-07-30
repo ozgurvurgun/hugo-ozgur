@@ -22,7 +22,7 @@ Ama NestJS bunun yerine decorator temelli bir yaklaşım sunar.
 Peki nasıl ve neden?
 
 
-## 🧱 `@Req()` ve `@Res()` Nedir?
+## `@Req()` ve `@Res()` Nedir?
 
 ### `@Req()`:
 HTTP isteğini temsil eden `Request` objesini verir. (Express tipindedir)
